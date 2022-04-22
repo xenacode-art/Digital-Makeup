@@ -290,7 +290,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 #contact_form { 
 	padding: 0px; 
 	width: 330px; 
-	background-image: url(./images/tooplate_contact) no-repeat;
+	background-image: url(../images/tooplate_contact) no-repeat;
 }
 
 #contact_form form { 

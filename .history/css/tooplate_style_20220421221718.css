@@ -255,13 +255,13 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	text-decoration: none; 
 }
 
-/* .service_list li .service_one { background: url(../images/onebit_08.png) center left no-repeat; } */
-/* /* .service_list li .service_two { background: url(../images/onebit_11.png) center left no-repeat; } */ */
-/* /* .service_list li .service_three { background: url(../images/onebit_17.png) center left no-repeat; } */ */
-/* /* .service_list li .service_four { background: url(../images/onebit_21.png) center left no-repeat; } */ */
-/* /* .service_list li .service_five { background: url(../images/onebit_12.png) center left no-repeat; } */ */
-/* /* .service_list li .service_six { background: url(../images/onebit_19.png) center left no-repeat; } */ */
-/*  */
+.service_list li .service_one { background: url(../images/onebit_08.png) center left no-repeat; }
+.service_list li .service_two { background: url(../images/onebit_11.png) center left no-repeat; }
+.service_list li .service_three { background: url(../images/onebit_17.png) center left no-repeat; }
+.service_list li .service_four { background: url(../images/onebit_21.png) center left no-repeat; }
+.service_list li .service_five { background: url(../images/onebit_12.png) center left no-repeat; }
+.service_list li .service_six { background: url(../images/onebit_19.png) center left no-repeat; }
+
 #gallery { 
 	margin: 0; 
 	padding: 0; 
@@ -290,7 +290,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 #contact_form { 
 	padding: 0px; 
 	width: 330px; 
-	background-image: url(./images/tooplate_contact) no-repeat;
+	background-image: url(../images/tooplate_contact) no-repeat;
 }
 
 #contact_form form { 
