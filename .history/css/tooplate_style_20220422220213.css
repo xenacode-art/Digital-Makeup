@@ -44,7 +44,6 @@ a.gototop:hover {
 p { 
 	margin: 0 0 10px 0; 
 	padding: 0; 
-	color : chocolate;
 }
 
 img { 
@@ -54,20 +53,19 @@ img {
 blockquote { 
 	font-style: italic; 
 	margin: 0 0 0 10px;
-	color:#627381;
 }
 
 cite { 
 	font-weight: bold; 
-	color:rebeccapurple; 
+	color:#5e5848; 
 }
 
 cite span { 
-	color: #d8391269; 
+	color: #916f09; 
 }
 
 em { 
-	color:chocolate; 
+	color: #d9d7df50; 
 	font-weight: bold; 
 }
 
@@ -94,7 +92,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .image_wrapper { 
 	display: inline-block; 
 	padding: 2px; 
-	background: rgb(20, 9, 9) url(../images/tooplate_image_frame.jpg) no-repeat bottom center; 
+	background: rgb(65, 15, 15) url(../images/tooplate_image_frame.jpg) no-repeat bottom center; 
 	margin-bottom: 5px; 
 }
 

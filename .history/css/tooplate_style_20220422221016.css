@@ -44,7 +44,6 @@ a.gototop:hover {
 p { 
 	margin: 0 0 10px 0; 
 	padding: 0; 
-	color : chocolate;
 }
 
 img { 
@@ -54,16 +53,15 @@ img {
 blockquote { 
 	font-style: italic; 
 	margin: 0 0 0 10px;
-	color:#627381;
 }
 
 cite { 
 	font-weight: bold; 
-	color:rebeccapurple; 
+	color:palevioletred; 
 }
 
 cite span { 
-	color: #d8391269; 
+	color: #916f09; 
 }
 
 em { 

@@ -44,7 +44,6 @@ a.gototop:hover {
 p { 
 	margin: 0 0 10px 0; 
 	padding: 0; 
-	color : chocolate;
 }
 
 img { 
@@ -54,24 +53,23 @@ img {
 blockquote { 
 	font-style: italic; 
 	margin: 0 0 0 10px;
-	color:#627381;
 }
 
 cite { 
 	font-weight: bold; 
-	color:rebeccapurple; 
+	color:#5e5848; 
 }
 
 cite span { 
-	color: #d8391269; 
+	color: #916f09; 
 }
 
 em { 
-	color:chocolate; 
+	color: #e7b51b; 
 	font-weight: bold; 
 }
 
-h1, h2, h3, h4, h5, h6 { color:rgb(238, 232, 236); font-weight:normal; }
+h1, h2, h3, h4, h5, h6 { color:rgb(223, 215, 215); font-weight:normal; }
 h1 { font-size: 48px; margin: 0 0 20px; padding: 5px 0 }
 h2 { font-size: 34px; margin: 0 0 20px; padding: 5px 0 15px; font-weight: thick; background: url(../images/tooplate_divider.jpg) repeat-x bottom;}
 h3 { font-size: 24px; margin: 0 0 25px; padding: 0; }
@@ -94,7 +92,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 .image_wrapper { 
 	display: inline-block; 
 	padding: 2px; 
-	background: rgb(20, 9, 9) url(../images/tooplate_image_frame.jpg) no-repeat bottom center; 
+	background: #000 url(../images/tooplate_image_frame.jpg) no-repeat bottom center; 
 	margin-bottom: 5px; 
 }
 
@@ -115,14 +113,14 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 }
 
 .tooplate_list li { 
-	color:#611730; 
+	color:#68992a; 
 	margin: 0; 
 	padding: 0 0 5px 20px; 
 	background: url(../images/tooplate_list.jpg) no-repeat scroll 0 5px;  
 }
 
 .tooplate_list li a { 
-	color: #627381; 
+	color: #71a7d3; 
 	font-weight: normal; 
 	font-size: 12px; 
 	text-decoration: none; 
@@ -167,7 +165,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	width: 195px; 
 	height: 32px; 
 	margin: 0 auto; 
-	color: rgb(68, 35, 37); 
+	color: rgb(68, 35, 35); 
 	font-size: 40px; 
 	outline: none; 
 	text-indent: -10000px; 
@@ -210,7 +208,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 	height: 35px;
 	line-height: 35px;
 	font-size: 14px;
-	color: #886531;	
+	color: #7c7888;	
 	text-align: center;
 	text-decoration: none;
 	font-weight: 700;
