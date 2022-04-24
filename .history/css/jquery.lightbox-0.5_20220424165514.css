@@ -36,7 +36,7 @@
 	height:50px;
 	margin: 0 auto;
 }
-#lightbox-container-image { padding:none; }
+#lightbox-container-image { padding: 30px; }
 #lightbox-loading {
 	position: absolute;
 	top: 50%;
@@ -64,20 +64,20 @@
 }
 #lightbox-nav-btnPrev { 
 	left: 0; 
-	float: left;
+	float: right;
 }
 #lightbox-nav-btnNext { 
 	right: 0; 
-	float: right;
+	float: left;
 }
 #lightbox-container-image-data-box {
 	font: 10px Verdana, Helvetica, sans-serif;
 	background-color: #fff;
 	margin: 0 auto;
-	line-height: 4.4em;
+	line-height: 1.4em;
 	overflow: auto;
 	width: 100%;
-	padding: 0 2px 0;
+	padding: 0 10px 0;
 }
 #lightbox-container-image-data {
 	padding: 0 10px; 
